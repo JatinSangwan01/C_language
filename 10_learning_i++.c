@@ -3,7 +3,7 @@
 int main(){
     int j =5;
     printf("The value of j is %d\n",j );
-j= j + 100000000000000000;
+j= j + 10;
     printf("The value of j is %d\n",j++ );
 
     printf("The value of j is %d\n",j );
